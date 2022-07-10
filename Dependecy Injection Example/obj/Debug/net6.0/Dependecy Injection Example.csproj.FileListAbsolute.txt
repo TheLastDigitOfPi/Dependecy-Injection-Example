@@ -1,0 +1,18 @@
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\bin\Debug\net6.0\Dependecy Injection Example.exe
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\bin\Debug\net6.0\Dependecy Injection Example.deps.json
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\bin\Debug\net6.0\Dependecy Injection Example.runtimeconfig.json
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\bin\Debug\net6.0\Dependecy Injection Example.dll
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\bin\Debug\net6.0\Dependecy Injection Example.pdb
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.dll
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\refint\Dependecy Injection Example.dll
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.pdb
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\ref\Dependecy Injection Example.dll
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniel\source\repos\Dependecy Injection Example\Dependecy Injection Example\obj\Debug\net6.0\Dependecy Injection Example.csproj.CopyComplete
